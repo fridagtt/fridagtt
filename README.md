@@ -2,9 +2,9 @@
 
 I'm Frida ✨, a computer science student discovering new technologies.
 
-* 👩🏻‍💻 I’m currently working at [Kodda](https://kodda.mx/) as a Software Engineer.
+* 👩🏻‍💻 I’m currently a Software Engineer at [Kodda](https://kodda.mx/).
 
-* 📚 Currently learning React JS.
+* 📚 Currently Developing Web with ReactJS ⚛️.
 
 * ✉️ Reach me by sending me a message on [LinkedIn](https://www.linkedin.com/in/fridag/)
 
