@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello! 👋
 
-<!--
-**fridagtt/fridagtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Frida ✨, a computer science student discovering new technologies.
 
-Here are some ideas to get you started:
+* 👩🏻‍💻 I’m currently working at [Kodda](https://kodda.mx/) as a Software Engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📚 I’m currently learning React JS.
+
+* ✉️ How to reach me: send me a message on [LinkedIn](https://www.linkedin.com/in/fridag/)
+
+* 🙂 Pronouns: She/her
+
+* 🎬 Fun fact: I love Harry Potter.
