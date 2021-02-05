@@ -11,3 +11,5 @@ I'm Frida ✨, a computer science student discovering new technologies.
 * 🙂 Pronouns: She/her
 
 * 🎬 Fun fact: I love Harry Potter.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fridagtt&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
