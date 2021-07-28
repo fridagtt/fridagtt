@@ -1,10 +1,8 @@
 ### Hello! 👋
 
-I'm Frida ✨, a computer science student discovering new technologies.
+I'm Frida ✨, a computer science student constantly discovering new skills.
 
-* 👩🏻‍💻 I’m currently a Software Engineer at [Kodda](https://kodda.mx/).
-
-* 📚 Currently Developing Web on ReactJS ⚛️.
+* 👩🏻‍💻 I’m currently a Software Engineer Intern at Microsoft.
 
 * ✉️ Reach me by sending me a message on [LinkedIn](https://www.linkedin.com/in/fridag/).
 
