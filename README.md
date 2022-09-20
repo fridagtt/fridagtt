@@ -2,7 +2,7 @@
 
 I'm Frida ✨, a computer science student constantly discovering new skills.
 
-* 👩🏻‍💻 I’m currently a Software Engineer Intern at Kodda.
+* 👩🏻‍💻 I’m currently a Software Engineer Intern at Lyft.
 
 * ✉️ Reach me by sending me a message on [LinkedIn](https://www.linkedin.com/in/fridag/).
 
